@@ -4,10 +4,12 @@ charset-normalizer==3.4.9
 Django==5.2.17
 djangorestframework==3.18.0
 et_xmlfile==2.0.0
+gunicorn==26.0.0
 idna==3.18
 mysqlclient==2.2.8
 numpy==2.2.6
 openpyxl==3.1.5
+packaging==26.3
 pandas==2.3.3
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
@@ -18,3 +20,4 @@ sqlparse==0.5.5
 typing_extensions==4.16.0
 tzdata==2026.3
 urllib3==2.7.0
+whitenoise==6.12.0
